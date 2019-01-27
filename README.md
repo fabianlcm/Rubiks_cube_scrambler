@@ -1,1 +1,1 @@
-# Rubiks_cube_scrambler
+# Rubik's cube scrambler
